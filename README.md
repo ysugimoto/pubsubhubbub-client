@@ -34,4 +34,4 @@ MIT License
 
 ## Thanks
 
-This library inspired from https://github.com/joshfraser/pubsubhubbub-php. That is wonderfule, but don't support composer. So that, we create this library thanks.
+This library inspired from https://github.com/joshfraser/pubsubhubbub-php. That is wonderful, but it don't support composer. So that, we create this library.
