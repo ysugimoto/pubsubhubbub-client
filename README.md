@@ -1,5 +1,5 @@
 # pubsubhubbub-client
-Pubsubhubbub client for PHP
+Pubsubhubbub client for PHP ( supports composer installation )
 
 ## Requirements
 
