@@ -1,0 +1,17 @@
+{
+    "name": "ysugimoto/pubsubhubbub",
+    "description": "Pubsubhubbub Client for PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yoshiaki Sugimoto",
+            "email": "sugimoto@wnotes.net"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Pubsubhubbub\\": "src/Pubsubhubbub/"
+        }
+    }
+}
